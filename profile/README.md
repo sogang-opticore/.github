@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sogang-opticore/.github/main/assets/opticore-banner.svg" alt="OPTICORE — Optimization + Core" width="100%" />
+  <img src="https://raw.githubusercontent.com/sogang-opticore/.github/4e337e9/assets/opticore-banner.svg" alt="OPTICORE — Optimization + Core" width="100%" />
 </p>
 
 <p align="center">
