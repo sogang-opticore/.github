@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">OPTICORE</title>
-  <desc id="desc">OPTICORE project team. Robotics and Document AI.</desc>
+  <desc id="desc">OPTICORE project team. Optimization + Core.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1525"/>
@@ -20,7 +20,7 @@
   <g font-family="Arial, Helvetica, sans-serif">
     <text x="72" y="116" fill="#93b4c9" font-size="15" letter-spacing="4">SOGANG PROJECT TEAM</text>
     <text x="68" y="206" fill="#f0f9ff" font-size="76" font-weight="700" letter-spacing="5">OPTICORE</text>
-    <text x="72" y="255" fill="#a9c7da" font-size="23">Robotics &amp; Document AI</text>
+    <text x="72" y="255" fill="#a9c7da" font-size="23">Optimization + Core</text>
     <text x="72" y="307" fill="#6c99b3" font-size="13" letter-spacing="2">AMR / AUTONOMY / OPTIDOCU</text>
   </g>
   <g transform="translate(1005 180)" fill="none" stroke="url(#accent)">
