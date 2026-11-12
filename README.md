@@ -12,7 +12,7 @@
 1. `sogang-opticore` 조직에 이름이 `.github`인 **공개 저장소**를 만듭니다.
 2. 기본 브랜치를 `main`으로 두고 이 디렉터리의 파일을 같은 경로에 올립니다. 다른 브랜치를 사용하면 `profile/README.md`의 배너 URL도 바꿉니다.
 3. 조직 Overview에서 README와 배너가 표시되는지 확인합니다.
-4. `opticore-optidocu` 저장소가 만들어지고 공개된 뒤, 프로젝트 표의 OptiDocu 이름에 해당 저장소 링크를 추가합니다.
+4. 프로젝트 링크와 공개 여부를 실제 저장소 상태에 맞게 유지합니다. 현재 OptiDocu는 비공개이며, 소개에 연결된 저장소·커밋 링크는 접근 권한이 있는 사용자만 열람할 수 있습니다.
 
 설정 방식은 [GitHub 조직 프로필 공식 문서](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)를 참고합니다.
 
